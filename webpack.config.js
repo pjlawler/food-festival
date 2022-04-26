@@ -13,5 +13,5 @@ module.exports = {
     jQuery: "jquery"
   }),
   ],
-  mode: "production"
+  mode: "development"
 };
